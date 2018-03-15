@@ -1,0 +1,21 @@
+{
+  "name": "ussd",
+  "version": "1.0.0",
+  "description": "ussd application using the africa's talking api",
+  "main": "index.js",
+  "scripts": {
+    "test": "*384*15685#"
+  },
+  "repository": {
+    "type": "git",
+    "url": "first_ussdApp"
+  },
+  "keywords": [
+    "ussd",
+    "africa'stalking",
+    "sawepeter",
+    "graphics"
+  ],
+  "author": "sawepeter",
+  "license": "MIT"
+}
